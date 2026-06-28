@@ -1,0 +1,92 @@
+// credit : https://github.com/harilvfs/fastfetch
+
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+
+  "logo": {
+    "type": "kitty",
+    "source": "/home/codexxero/wallpapers/wallp2/catlogo2.png",
+    "width": 30,
+    "height": 15
+  },
+
+  "modules": [
+        "break",
+        {
+            "type": "os",
+            "key": " ",
+            "keyColor": "34",  // = color4
+        },
+        {
+            "type": "kernel",
+            "key": " ",
+            "keyColor": "34",
+        },
+        {
+            "type": "packages",
+            "format": "{} (pacman)",
+            "key": " ",
+            "keyColor": "34",  
+        },
+        {
+            "type": "shell",
+            "key": " ",
+            "keyColor": "34", 
+        },
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "34", 
+        },
+        {
+            "type": "wm",
+            "key": " ",
+            "keyColor": "34", 
+        },
+        {
+            "type": "display",
+            "key": " ",
+            "keyColor": "34"
+        },
+        {
+            "type": "cpu",
+            "format": "{1}",
+            "key": " ",
+            "keyColor": "34"
+        },
+      
+        {
+             "type": "memory",
+            "key": "󰍛 ",
+            "keyColor": "34"
+        },
+        {
+             "type": "swap",
+            "key": "󰾴 ",
+            "keyColor": "34"
+        },
+        {
+            "type": "disk",
+            "key": " ",
+            "keyColor": "34"
+        },
+        {
+            "type": "uptime",
+            "key": " ",
+            "keyColor": "34", 
+        },
+        {
+            "type": "command",
+            "key": "󱦟 ",
+            "keyColor": "34",
+            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
+        },
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[90m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m  \u001b[37m"
+        },
+        "break",
+        "break",
+    ]
+}
