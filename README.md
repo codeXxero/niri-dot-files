@@ -8,7 +8,7 @@ added my own keybinds and some other small changes
 
 ![preview](images/pr2.png)
 
-![preview](images/pr1.png)
+![preview](images/pr3.png)
 
 ## windows overview
 
@@ -24,6 +24,6 @@ link - [wallpapercar](https://github.com/motor-dev/wallpaperCarousel)
 
 ![preview](images/pr3.png)
 
-cava link - [cava](https://github.com/karlstav/cava)
+![preview](images/pr1.png)
 
-![preview](images/pr4.png)
+cava link - [cava](https://github.com/karlstav/cava)
