@@ -14,7 +14,7 @@
 
 ![preview](images/pr6.png)
 
-link - [wallpapercar] (https://github.com/motor-dev/wallpaperCarousel)
+link - [wallpapercar](https://github.com/motor-dev/wallpaperCarousel)
 
 #### cava
 
