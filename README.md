@@ -8,7 +8,7 @@ added my own keybinds and some other small changes
 
 ![preview](images/pr2.png)
 
-![preview](images/pr6.png)
+![preview](images/pr4.png)
 
 ## windows overview
 
